@@ -11,7 +11,7 @@ function Home() {
   return (
     <>
         <Header/>
-        {posts.map((post) => (
+        {posts.map(post => (
           <Blogs key={post.id} post={post} />
         ))}
         <Footer/>

@@ -1,9 +1,18 @@
 import React from 'react'
 import posts from '../data/posts.json'
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
+import ReactMarkdown from 'react-markdown'
 
 function Blogs({post}) {
   const [isVisible, setIsVisible] = useState(true)
+  const [content, setContent] = useState('')
+
+  useEffect(() => {
+    fetch(post.content)
+      .then(res => res.text())
+      .then(text => setContent(text))
+      .catch(err => console.error('Error loading markdown:', err))
+  }, [post.content])
 
   return (
     <div className='w-screen'>
@@ -20,10 +29,13 @@ function Blogs({post}) {
             {isVisible ? '▼' : '►'}
           </button>
       
-          {isVisible && <p>{post.content}</p>}
+          {isVisible && (
+            <div className="prose max-w-none mt-3">
+              <ReactMarkdown>{content}</ReactMarkdown>
+            </div>
+          )}
           
         </div>
-
       </div>
     </div>
   )

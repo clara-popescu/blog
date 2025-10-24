@@ -1,16 +1,16 @@
 [
   {
     "id": 1,
-    "title": "MY FIRST BLOG POST",
-    "subtitle": "WEEK 1",
-    "content": "This is the content of my very first blog post. I'm excited to start blogging!",
-    "date": "5 Oct 2025"
+    "title": "Week1",
+    "subtitle": "Getting started with blogging",
+    "date": "2025-10-01",
+    "content": "/posts/week1.md"
   },
   {
     "id": 2,
-    "title": "Progress Update",
-    "subtitle": "WEEK 2",
-    "content": "This week I worked on adding the blog layout and some basic styling.",
-    "date": "12 Oct 2025"
+    "title": "Second Post",
+    "subtitle": "Another blog entry",
+    "date": "2025-10-15",
+    "content": "/posts/week2.md"
   }
 ]
