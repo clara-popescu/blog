@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react'
 import ReactMarkdown from 'react-markdown'
 
 function Blogs({post}) {
-  const [isVisible, setIsVisible] = useState(true)
+  const [isVisible, setIsVisible] = useState(false)
   const [content, setContent] = useState('')
 
   useEffect(() => {
@@ -15,15 +15,14 @@ function Blogs({post}) {
   }, [post.content])
 
   return (
-    <div className='w-screen'>
-      <div key={post.id} className='mb-7 flex w-3/5 m-auto'>
+    <div className='w-screen mt-6'>
+      <div key={post.id} className='pb-6 flex w-3/5 m-auto border-b-4 border-gray-50'>
         <div className='w-1/6'>
           <p className='text-gray-400'>{post.date}</p>
         </div>
 
         <div className='w-5/6'>
-          <h2>{post.title}</h2>
-          <p className='pb-3'>{post.subtitle}</p>
+          <h2 className='pb-2'>{post.title}</h2>
 
           <button onClick={() => setIsVisible(!isVisible)}>
             {isVisible ? '▼' : '►'}

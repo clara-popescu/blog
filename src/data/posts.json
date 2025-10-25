@@ -1,16 +1,26 @@
 [
   {
     "id": 1,
-    "title": "Week1",
-    "subtitle": "Getting started with blogging",
-    "date": "2025-10-01",
+    "title": "Week 1",
+    "date": "29 Sept 2025",
     "content": "/posts/week1.md"
   },
   {
     "id": 2,
-    "title": "Second Post",
-    "subtitle": "Another blog entry",
-    "date": "2025-10-15",
+    "title": "Week 2",
+    "date": "6 Oct 2025",
     "content": "/posts/week2.md"
+  },
+  {
+    "id": 3,
+    "title": "Week 3",
+    "date": "13 Oct 2025",
+    "content": "/posts/week3.md"
+  },
+  {
+    "id": 4,
+    "title": "Week 4",
+    "date": "20 Oct 2025",
+    "content": "/posts/week4.md"
   }
 ]
