@@ -16,7 +16,7 @@ function Blogs({post}) {
 
   return (
     <div className='w-screen mt-6'>
-      <div key={post.id} className='pb-6 flex w-3/5 m-auto border-b-4 border-gray-50'>
+      <div key={post.id} className='pb-6 flex w-4/5 m-auto border-b-4 border-gray-50'>
         <div className='w-1/6'>
           <p className='text-gray-400'>{post.date}</p>
         </div>
@@ -24,7 +24,7 @@ function Blogs({post}) {
         <div className='w-5/6'>
           <h2 className='pb-2'>{post.title}</h2>
 
-          <button onClick={() => setIsVisible(!isVisible)}>
+          <button className='cursor-pointer' onClick={() => setIsVisible(!isVisible)}>
             {isVisible ? '▼' : '►'}
           </button>
       

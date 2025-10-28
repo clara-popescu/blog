@@ -22,5 +22,11 @@
     "title": "Week 4",
     "date": "20 Oct 2025",
     "content": "/posts/week4.md"
+  },
+  {
+    "id": 5,
+    "title": "Week 5",
+    "date": "27 Oct 2025",
+    "content": "/posts/week5.md"
   }
 ]

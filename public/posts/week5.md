@@ -1,0 +1,1 @@
+* Prototyped another idea

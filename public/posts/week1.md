@@ -11,4 +11,4 @@
 - eye tracking
 - web development
 
-At this point, I have no idea what direction I want to go in with my final project. There are a lot of topics I want to explore but I'm not sure how to decide on one. I am leaning towards an artistic project but I'm open to scientific as well.
+At this point, I really had no idea what direction I wanted to take my final project in. There were so many topics I wanted to explore, and I wasn’t sure how to narrow them down or choose just one. I was leaning slightly towards creating something artistic, but I was also open to a more scientific approach if it fit the concept better.
