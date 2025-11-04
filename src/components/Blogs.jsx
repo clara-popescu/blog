@@ -15,6 +15,7 @@ function Blogs({post}) {
   }, [post.content])
 
   return (
+    
     <div className='w-screen mt-6'>
       <div key={post.id} className='pb-6 flex w-4/5 m-auto border-b-4 border-gray-50'>
         <div className='w-1/6'>
