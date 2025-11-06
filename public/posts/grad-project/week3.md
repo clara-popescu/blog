@@ -1,3 +1,3 @@
-![Brainstorming image](/images/WEEK3.png)
+![Brainstorming image](/images/grad-project/WEEK3.png)
 * During week 3, I continued working on the board and added some early ideas for the final project. They were still very rough, but it felt good to start imagining the final outcome and thinking about what I wanted to communicate to the user.
 * I also wrote the project outline, which really helped me organise my thoughts. Talking about the project with others gave me new perspectives and ideas, and helped me refine my concept even further.

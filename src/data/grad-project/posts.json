@@ -3,30 +3,36 @@
     "id": 1,
     "title": "Week 1",
     "date": "29 Sept 2025",
-    "content": "/posts/week1.md"
+    "content": "/posts/grad-project/week1.md"
   },
   {
     "id": 2,
     "title": "Week 2",
     "date": "6 Oct 2025",
-    "content": "/posts/week2.md"
+    "content": "/posts/grad-project/week2.md"
   },
   {
     "id": 3,
     "title": "Week 3",
     "date": "13 Oct 2025",
-    "content": "/posts/week3.md"
+    "content": "/posts/grad-project/week3.md"
   },
   {
     "id": 4,
     "title": "Week 4",
     "date": "20 Oct 2025",
-    "content": "/posts/week4.md"
+    "content": "/posts/grad-project/week4.md"
   },
   {
     "id": 5,
     "title": "Week 5",
     "date": "27 Oct 2025",
-    "content": "/posts/week5.md"
+    "content": "/posts/grad-project/week5.md"
+  },
+  {
+    "id": 6,
+    "title": "Week 6",
+    "date": "3 Nov 2025",
+    "content": "/posts/grad-project/week6.md"
   }
 ]

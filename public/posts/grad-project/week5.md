@@ -1,5 +1,5 @@
 * I put together a new prototype to test out a slightly different direction for the project
-![Prototype 2](/images/WEEK5.png)
+![Prototype 2](/images/grad-project/WEEK5.png)
 * I went back to the literature review and rewrote it using the same structure as the previous version. It flowed a lot better afterwards, and I think it helped clarify some of my ideas
 * I found a huge dataset full of words people use to describe themselves. It would be nice to find a way to bring it into the project, but I will focus on the most basic aspects of it for now.
     * [aggregated responsed](https://jasonjones.ninja/social-science-dashboard-inator/ipseity-daily/download.html)

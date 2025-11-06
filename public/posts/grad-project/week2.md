@@ -1,4 +1,4 @@
-![Brainstorming image](/images/WEEK2.png)
+![Brainstorming image](/images/grad-project/WEEK2.png)
 * During week 2, I brainstormed a few potential topics and did some initial research for each of them: 
     1. interaction between computers and humans
     2. nature and computing 

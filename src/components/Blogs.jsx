@@ -1,5 +1,5 @@
 import React from 'react'
-import posts from '../data/posts.json'
+import posts from '../data/grad-project/posts.json'
 import { useState, useEffect } from 'react'
 import ReactMarkdown from 'react-markdown'
 

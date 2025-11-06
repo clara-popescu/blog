@@ -1,13 +1,13 @@
 // rfce to create the template
 
 import React from 'react'
-import posts from '../data/posts.json'
+import posts from '../data/grad-project/posts.json'
 import Header from '../components/Header'
 import Blogs from '../components/Blogs'
 import Footer from '../components/Footer'
 
 
-function Home() {
+function GradProject() {
   return (
     <>
         <Header/>
@@ -20,4 +20,4 @@ function Home() {
   )
 }
 
-export default Home
+export default GradProject
